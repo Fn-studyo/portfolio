@@ -1,6 +1,6 @@
 <template>
   <div>
-<section class="bg-white overflow-hidden" style="background-image: url('@/assets/images/bg-main.svg'); background-position: center;">
+<section class="bg-white overflow-hidden" style="background-image: url('https://i.ibb.co/ZWW94j3/bg-main.png'); background-position: center;">
   <div class="bg-transparent">
     <Header />
   </div>
