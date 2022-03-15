@@ -1,6 +1,6 @@
 <template>
   <div>
-<section class="bg-white overflow-hidden" style="background-image: url('https://shuffle.dev/flex-ui-assets/elements/pattern-white.svg'); background-position: center;">
+<section class="bg-white overflow-hidden" style="background-image: url('@/assets/images/bg-main.svg'); background-position: center;">
   <div class="bg-transparent">
     <Header />
   </div>
