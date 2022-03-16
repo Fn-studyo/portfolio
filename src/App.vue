@@ -3,7 +3,7 @@
     <router-view/>
   </div>
 </template>
-<script>
+<script> 
   export default {
     metaInfo: {
       title: 'Muritala David Ilerioluwa | Backend Developer',
@@ -17,6 +17,4 @@
 </script> 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-@import url('https://shuffle.dev/static/build/css/shuffle-preview.3a553ecf.css');
-@import url('https://shuffle.dev/vendor/icons/css/fontello.css?v=h7b');
 </style>
