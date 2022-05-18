@@ -57,7 +57,7 @@ export default {
                 url: 'http://myloftapp.co/'
             },{
               name: 'Africa Fintech LTD',
-              url: '#'
+              url: 'http://africafintech.co.uk/'
             }]
         }
     }
